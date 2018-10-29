@@ -1,0 +1,16 @@
+paris:
+  landlord_firstname: 'Jean'
+  landlor_lastname: 'Chamonix'
+  custom_message: 'View of the Eiffel from the balcony!'
+london:
+  landlord_firstname: 'Dina'
+  landlor_lastname: 'Durner'
+  custom_message: 'Simply the best!'
+rio:
+  landlord_firstname: 'Lars'
+  landlor_lastname: 'Beckman'
+  custom_message: 'Welome to my awsome adobe'
+berlin:
+  landlord_firstname: 'Rolf'
+  landlor_lastname: 'Weinachter'
+  custom_message: 'Wilkommen!'
